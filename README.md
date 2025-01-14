@@ -41,6 +41,12 @@ AI Solutions
 - Matplotlib, NLTK, Pandas, Scikit-learn
 [Colab Notebook](https://github.com/FalineRezvani/Classification/blob/main/AdaBoost_IMDbReviews.ipynb)
 
+### Data Essentials and Hypothesis Building (Jan. 2025)
+CIC Student Working Group
+- Apply ethical methods of research, data cleaning, inspection, and analysis.  Develop a working hypothesis.  Communicated the process and make recommendations.
+- Excel
+[Presentation](https://www.youtube.com/watch?v=NEXZ9Ks5ioE&t=26s)
+
 ### Image Classification (Aug. 2024)
 Advanced ML
 - Data augmentation on CIFAR-10 dataset for a classification model using convolutional neural network (CNN) architecture.
