@@ -39,7 +39,7 @@ U.S. Department of Transportation Federal Highway Administration
 AI Solutions
 - EDA, text pre-processing, & feature extraction on IMDb Reviews dataset.  Compiling, training, testing, & evaluation of a classification model using adaptive boosting (Ada Boost) algorithm.
 - Matplotlib, NLTK, Pandas, Scikit-learn
-
+[Colab Notebook](https://github.com/FalineRezvani/Classification/blob/main/AdaBoost_IMDbReviews.ipynb)
 
 ### Image Classification (Aug. 2024)
 Advanced ML
