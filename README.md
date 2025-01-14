@@ -33,11 +33,13 @@ Fun Enterprises, Inc.
 U.S. Department of Transportation Federal Highway Administration
 - Identification of time series trends, seasonality, and residuals of Motor Vehicle Collisions – Crashes in NYC dataset.  Geospatial data processing and visualization.
 - Matplotlib, Pandas, Seaborn, Folium
+[Virtual Poster](https://a3d2f1c2-6a31-46f6-a5cc-6987178cd73e.filesusr.com/ugd/e44a45_da080b2e72aa45d084cdb1e233807cad.pdf)
 
 ### Sentiment Analysis (Sept. 2024)
 AI Solutions
 - EDA, text pre-processing, & feature extraction on IMDb Reviews dataset.  Compiling, training, testing, & evaluation of a classification model using adaptive boosting (Ada Boost) algorithm.
 - Matplotlib, NLTK, Pandas, Scikit-learn
+
 
 ### Image Classification (Aug. 2024)
 Advanced ML
