@@ -18,7 +18,7 @@ teachers & students, and to share questions & ideas.
 - Fundraising, revenue, & expense monitoring
 - Constituents & board member communication support
 
-### Financial Analyst Volunteer (Mar. 2023 – Sep. 2023)
+### Data Visualization Volunteer (Mar. 2023 – Sep. 2023)
 ### YWCA Golden Gate Silicon Valley
 Multi-service agency empowering communities,
 achieving solutions, & inspiring opportunities.
