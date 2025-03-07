@@ -3,12 +3,6 @@
 metrics/recommendations, feature preprocessing for machine learning,
 and implementing debiasing techniques.
 
-
-## EDUCATION
-### University of Maryland Global Campus (Oct. 2022 – Dec. 2024)
-B.S. Data Science – GPA 3.88
-- Alpha Sigma Lambda Tau Chapter National Honor Society
-
 ## WORK & VOLUNTEER EXPERIENCE
 ### Treasurer (Aug. 2024 – Present)
 ### South Lancaster Academy Home & School Association
@@ -19,13 +13,13 @@ teachers & students, and to share questions & ideas.
 - Constituents & board member communication support
 
 ### Data Visualization Volunteer (Mar. 2023 – Sep. 2023)
-### YWCA Golden Gate Silicon Valley
+### [YWCA Golden Gate Silicon Valley](https://www.catchafire.org/impact/match/3294200/ywca-golden-gate-silicon-valley--data-visualization/)
 Multi-service agency empowering communities,
 achieving solutions, & inspiring opportunities.
 - Executed 21.22 Annual Report Visualizations
 
 ### Site Lead (Mar. 2016 – Jun. 2022)
-### Whitson’s Culinary Group
+### [Whitson’s Culinary Group](https://whitsons.com/our-markets/education/nourishing-students/)
 Top-tier dining service provider specializing in diverse
 sectors from educational to emergency programs.
 -	Interdepartmental collaboration to address unique dietary requirements within student body
@@ -33,7 +27,7 @@ sectors from educational to emergency programs.
 -	Implementation & assessment of onsite HACCP Plan
 
 ### Program Specialist (Nov. 2011 – Jan. 2016)
-### Fun Enterprises, Inc.
+### [Fun Enterprises, Inc.](https://funent.com/about-us)
 Interactive event planning company creating experiences
 for clients, employees, & students throughout the U.S.
 -	Client management for corporate, college, & private events
@@ -63,5 +57,10 @@ EDA, text pre-processing, & feature extraction on IMDb Reviews dataset.  Compili
 
 ### [UMGC Office of Communications Marketing Video](https://www.youtube.com/watch?v=gVQWF4yTFJ4) (Aug. 2024)
 Explored why professionals in every industry should understand the value of automation with AI.
+
+## EDUCATION
+### University of Maryland Global Campus (Oct. 2022 – Dec. 2024)
+B.S. Data Science – GPA 3.88
+- Alpha Sigma Lambda Tau Chapter National Honor Society
 
 
