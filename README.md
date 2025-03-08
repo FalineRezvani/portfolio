@@ -35,7 +35,7 @@ for clients, employees, & students throughout the U.S.
 -	Traffic flow development based on venue & attendance
 
 ## PROJECTS
-### [Examining Employee Atrrition](https://falinerezvani.wixsite.com/faline-rezvani/portfolio-collections/my-portfolio/examining-employee-attrition) (Dec. 2023)
+### [Examining Employee Attrition](https://falinerezvani.wixsite.com/faline-rezvani/portfolio-collections/my-portfolio/examining-employee-attrition) (Dec. 2023)
 Analysis of data collected from an employee questionnaire has uncovered three key influencers on employee attrition.
 - Microsoft Power BI
 
@@ -47,7 +47,7 @@ Aggregation of multiple sources to build storyline of sales, returns, and sentim
 Ethical data cleaning and analysis, development of working hypothesis, and communication of the process with recommendations.
 - Excel, OBS Studio
 
-### [Understanding Pedestrian Risk](https://a3d2f1c2-6a31-46f6-a5cc-6987178cd73e.filesusr.com/ugd/e44a45_da080b2e72aa45d084cdb1e233807cad.pdf) (Oct. 2024)
+### U.S. Dept. of Transportation Data Science Project (Oct. 2024)
 Identification of time series trends, seasonality, and residuals of Motor Vehicle Collisions – Crashes in NYC dataset.  Geospatial data processing and visualization.
 - Matplotlib, Pandas, Seaborn, Folium
 
