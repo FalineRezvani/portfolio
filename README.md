@@ -35,7 +35,7 @@ for clients, employees, & students throughout the U.S.
 -	Traffic flow development based on venue & attendance
 
 ## PROJECTS
-### [Examining Employee Attrition](https://falinerezvani.wixsite.com/faline-rezvani/portfolio-collections/my-portfolio/examining-employee-attrition) (Dec. 2023)
+### [Examining Employee Attrition](https://falinerezvani.wixsite.com/faline-rezvani/portfolio-collections/risk/examining-employee-attrition-12913b) (Dec. 2023)
 Analysis of data collected from an employee questionnaire has uncovered three key influencers on employee attrition.
 - Microsoft Power BI
 
@@ -47,7 +47,7 @@ Aggregation of multiple sources to build storyline of sales, returns, and sentim
 Ethical data cleaning and analysis, development of working hypothesis, and communication of the process with recommendations.
 - Excel, OBS Studio
 
-### U.S. Dept. of Transportation Data Science Project (Oct. 2024)
+### [U.S. Dept. of Transportation Data Science Project](https://github.com/FalineRezvani/portfolio/blob/main/VirtualPoster%20-%20TDSP.pdf) (Oct. 2024)
 Identification of time series trends, seasonality, and residuals of Motor Vehicle Collisions – Crashes in NYC dataset.  Geospatial data processing and visualization.
 - Matplotlib, Pandas, Seaborn, Folium
 
@@ -59,7 +59,7 @@ EDA, text pre-processing, & feature extraction on IMDb Reviews dataset.  Compili
 Explored why professionals in every industry should understand the value of automation with AI.
 
 ## EDUCATION
-### University of Maryland Global Campus (Oct. 2022 – Dec. 2024)
+### [University of Maryland Global Campus](https://meritpages.com/FalineRezvani) (Oct. 2022 – Dec. 2024)
 B.S. Data Science – GPA 3.88
 - Alpha Sigma Lambda Tau Chapter National Honor Society
 
