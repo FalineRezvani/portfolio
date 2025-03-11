@@ -47,13 +47,17 @@ Aggregation of multiple sources to build storyline of sales, returns, and sentim
 Ethical data cleaning and analysis, development of working hypothesis, and communication of the process with recommendations.
 - Excel, OBS Studio
 
-### [U.S. Dept. of Transportation Data Science Project](https://github.com/FalineRezvani/portfolio/blob/main/VirtualPoster%20-%20TDSP.pdf) (Oct. 2024)
-Identification of time series trends, seasonality, and residuals of Motor Vehicle Collisions – Crashes in NYC dataset.  Geospatial data processing and visualization.
-- Matplotlib, Pandas, Seaborn, Folium
+### [Understanding Pedestrian Risk](https://falinerezvani.wixsite.com/faline-rezvani/about-4) (Jan. 2025)
+Examining motor vehicle crash characteristics related to increased pedestrian risk in the U.S.
+- Google Colab, R Studio
 
 ### [Sentiment Analysis](https://github.com/FalineRezvani/Classification/blob/main/AdaBoost_IMDbReviews.ipynb) (Sept. 2024)
 EDA, text pre-processing, & feature extraction on IMDb Reviews dataset.  Compiling, training, testing, & evaluation of a classification model using adaptive boosting (Ada Boost) algorithm.
 - Matplotlib, NLTK, Pandas, Scikit-learn
+
+### [U.S. Dept. of Transportation Data Science Project](https://github.com/FalineRezvani/portfolio/blob/main/VirtualPoster%20-%20TDSP.pdf) (Oct. 2024)
+Identification of time series trends, seasonality, and residuals of Motor Vehicle Collisions – Crashes in NYC dataset.  Geospatial data processing and visualization.
+- Matplotlib, Pandas, Seaborn, Folium
 
 ### [UMGC Office of Communications Marketing Video](https://www.youtube.com/watch?v=gVQWF4yTFJ4) (Aug. 2024)
 Explored why professionals in every industry should understand the value of automation with AI.
