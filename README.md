@@ -5,7 +5,7 @@ and implementing debiasing techniques.
 
 ## WORK & VOLUNTEER EXPERIENCE
 ### Treasurer (Aug. 2024 – Present)
-### [South Lancaster Academy Home & School Association](https://github.com/FalineRezvani/portfolio/blob/main/SLA_HSA.pdf)
+### [South Lancaster Academy Home & School Association](https://github.com/FalineRezvani/portfolio/blob/main/hsaGrowth24-25.pdf)
 Creating opportunities for community members to support
 teachers & students, and to share questions & ideas.
 - Finance management & event budget planning
